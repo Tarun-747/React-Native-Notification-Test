@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "534105085511",
+    "project_id": "tarun-demo-6e9e7",
+    "storage_bucket": "tarun-demo-6e9e7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534105085511:android:821714fe982e5d97d24362",
+        "android_client_info": {
+          "package_name": "com.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5mfumxYAmWalsEEHLGf5UqckxAjmnEw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
